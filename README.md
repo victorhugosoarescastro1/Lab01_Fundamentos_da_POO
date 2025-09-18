@@ -1,4 +1,4 @@
-## Laboratório 02 - Fundamentos da POO
+## Laboratório 01 - Fundamentos da POO
 1. Classe
 2. Atributo
 3. Método
